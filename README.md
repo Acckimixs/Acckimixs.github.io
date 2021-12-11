@@ -1,3 +1,5 @@
-# gkillian.ackimixs.io
+# ackimixs.github.io
 
-result of my tp
+website from tp for my school 
+
+IT'S JUST EXERCICE DON'T WORRY (whit little easter egg)
